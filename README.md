@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AhmadTDiallo
-- 👀 I’m interested in programming, developing dApps and data science
-- 🌱 I’m currently learning R programming for data and algorithms on python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a Full-stack developer
+- 🌱 I’m currently learning programming for data and algorithms on python.
 
 <!---
 AhmadTDiallo/AhmadTDiallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
