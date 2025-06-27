@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AhmadTDiallo
-- 👀 I’m a Full-stack developer
-- 🌱 I’m currently learning programming for data and algorithms on python.
+Full Stack Developer | AhmadTDiallo  
+Building modern web apps with React, Node.js, and scalable backend systems.
 
 <!---
 AhmadTDiallo/AhmadTDiallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
